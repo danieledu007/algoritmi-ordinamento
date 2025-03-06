@@ -1,3 +1,5 @@
+import matplotlib as mtl
+from matplotlib.animation import FuncAnimation
 def selection_sort(lista):
     n = len(lista)
     for i in range(n): # ciclo for esterno
@@ -14,15 +16,24 @@ def selection_sort(lista):
         lista[indice_trovato] = occ
     return lista
 def bubble_sort(lista):
-    n=lista(len)
+    n=len(lista)
     for i in range (n-1):
         print (list[i])
         for j in range (n-1):
             print (lista[j])
     return lista
 #            if lista[j] > lista
-
+def insertion_sort(lista):
+    n = len(lista)
+    for i in range(1,n): # effettua n-1 iterazioni a partire dal secondo elemento della lista
+        valore = lista[i] # salviamo il valore i-esimo
+        j = i-1
+    while j >= 0 and valore < lista[j]:
+        lista[j+1] = lista[j] # effettua almeno uno spostamento verso destra dei valori maggiori di "valore"
+        j -= 1
+        lista[j+1] = valore
+    return lista
 a=[2,4,6,1,5]
-print( selection_sort("a"))
-print ( bubble_sort("a"))
+print( selection_sort(a))
+print ( bubble_sort(a))
 # what?
