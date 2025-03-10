@@ -35,6 +35,7 @@ def insertion_sort(lista):
         j -= 1
         lista[j+1] = valore
     return lista
+#def 
 a=[2,4,6,1,5]
 print( selection_sort(a))
 print ( bubble_sort(a))
