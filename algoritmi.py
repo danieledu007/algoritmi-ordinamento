@@ -1,7 +1,6 @@
 import matplotlib as mtl
 import random
 from matplotlib.animation import FuncAnimation
-random.random()
 def selection_sort(lista):
     n = len(lista)
     for i in range(n): # ciclo for esterno
@@ -35,8 +34,12 @@ def insertion_sort(lista):
         j -= 1
         lista[j+1] = valore
     return lista
-#def 
+#def merge_sort(lista):
+#def merge()
+    
 a=[2,4,6,1,5]
+length= len(a)
 print( selection_sort(a))
 print ( bubble_sort(a))
+print(length)
 # what?
