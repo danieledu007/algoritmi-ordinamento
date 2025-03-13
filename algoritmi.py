@@ -1,21 +1,13 @@
 import matplotlib as mtl
 import random
 from matplotlib.animation import FuncAnimation
-def selection_sort(lista):
-    n = len(lista)
-    for i in range(n): # ciclo for esterno
-        minimo = lista[i] # valore di minimo che verrà utilizzato per il confronto
-        trovato = False # variabile sentinella
-    for j in range(i+1,n): # ciclo for interno per trovare il minimo tra i valori successivi
-        if lista[j] < minimo:
-            trovato = True # impostiamo la variabile sentinella se viene trovato un nuovo minimo
-            minimo = lista[j]
-            indice_trovato = j # memorizziamo la posizione del minimo
-        if trovato: # se "trovato" è True abbiamo un nuovo valore minimo e dobbiamo fare uno scambio
-            occ = lista[i]
-        lista[i] = lista[indice_trovato]
-        lista[indice_trovato] = occ
-    return lista
+def selection_sort(lista,n):
+   for i in range(n):
+    min=i
+    for j in range(i+1,n):
+        if lista[min]>lista[j]:
+         (lista[min],lista[j])=(lista[j],lista[min])
+#    return lista
 def bubble_sort(lista):
     n=len(lista)
     for i in range (n-1):
@@ -36,10 +28,10 @@ def insertion_sort(lista):
     return lista
 #def merge_sort(lista):
 #def merge()
-    
 a=[2,4,6,1,5]
 length= len(a)
-print( selection_sort(a))
-print ( bubble_sort(a))
-print(length)
+selection_sort(a,length)
+print(a)
+#print ( bubble_sort(a))
+#print(length)
 # what?
