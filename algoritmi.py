@@ -1,20 +1,20 @@
 import matplotlib as mtl
 import random
 from matplotlib.animation import FuncAnimation
+import time
 def selection_sort(lista,n):
-   for i in range(n):
-    min=i
+    for i in range(n):
+        min=i
     for j in range(i+1,n):
         if lista[min]>lista[j]:
          (lista[min],lista[j])=(lista[j],lista[min])
 #    return lista
-def bubble_sort(lista):
+def bubble_sort(lista,n):
     n=len(lista)
     for i in range (n-1):
-        print (list[i])
         for j in range (n-1):
-            print (lista[j])
-    return lista
+#            print (lista[j])
+         return lista
 #            if lista[j] > lista
 def insertion_sort(lista):
     n = len(lista)
@@ -30,8 +30,14 @@ def insertion_sort(lista):
 #def merge()
 a=[2,4,6,1,5]
 length= len(a)
+start=0
+end=0
+start=time.time()
 selection_sort(a,length)
+end=time.time()
+print(end-start)
 print(a)
 #print ( bubble_sort(a))
+
 #print(length)
 # what?
