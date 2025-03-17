@@ -2,6 +2,13 @@ import matplotlib as mtl
 import random
 from matplotlib.animation import FuncAnimation
 import time
+#def lista_random(n):
+#   limite=n
+#   for a in range(i,limite):
+#    a=[]
+#    return list
+#    ra=random.randint(1,1000)
+#    a.append(ra)
 def selection_sort(lista,n):
     for i in range(n):
         min=i
@@ -13,9 +20,7 @@ def bubble_sort(lista,n):
     n=len(lista)
     for i in range (n-1):
         for j in range (n-1):
-#            print (lista[j])
          return lista
-#            if lista[j] > lista
 def insertion_sort(lista):
     n = len(lista)
     for i in range(1,n): # effettua n-1 iterazioni a partire dal secondo elemento della lista
@@ -32,10 +37,12 @@ a=[2,4,6,1,5]
 length= len(a)
 start=0
 end=0
+n=input("lunghezza della lista:")
+#lista_random(n)
 start=time.time()
 selection_sort(a,length)
 end=time.time()
-print(end-start)
+print((end-start)*1000)
 print(a)
 #print ( bubble_sort(a))
 
