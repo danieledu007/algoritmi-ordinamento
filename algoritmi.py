@@ -9,13 +9,13 @@ import time
 #    return list
 #    ra=random.randint(1,1000)
 #    a.append(ra)
-def selection_sort(lista,n):
-    for i in range(n):
+def selection_sort(lista,len):
+    for i in range(len):
         min=i
-    for j in range(i+1,n):
-        if lista[min]>lista[j]:
-         (lista[min],lista[j])=(lista[j],lista[min])
-#    return lista
+        for j in range(i+1,len):
+            if lista[min]>lista[j]:
+                (lista[min],lista[j])=(lista[j],lista[min])
+    return li
 def bubble_sort(lista,n):
     n=len(lista)
     for i in range (n-1):
@@ -37,13 +37,18 @@ a=[2,4,6,1,5]
 length= len(a)
 start=0
 end=0
-n=input("lunghezza della lista:")
+n=int(input("lunghezza della lista:"))
+li=[random.sample(range(n),n)]
+#for i in range(n):
+li=random.sample(range(n),n)
+#li.append(random.sample(range(100),n))
+#ra=random.randint(0,1000)
+#li.append(ra)
 #lista_random(n)
 start=time.time()
-selection_sort(a,length)
+selection_sort(li,n)
 end=time.time()
 print((end-start)*1000)
-print(a)
 #print ( bubble_sort(a))
 
 #print(length)
