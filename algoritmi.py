@@ -17,8 +17,7 @@ def bubble_sort(lista, n):
         if scambio == False:  
             break
     return lista
-def insertion_sort(lista):
-    n = len(lista)
+def insertion_sort(lista,n):
     for i in range(1,n): # effettua n-1 iterazioni a partire dal secondo elemento della lista
         valore = lista[i] # salviamo il valore i-esimo
         j = i-1
@@ -32,8 +31,8 @@ def merge_sort(lista,n):
         return lista
     mid=n//2
     #divide la lista fino a valori singoli
-    sinistra=merge_sort(lista[:mid])
-    destra=merge_sort(lista[mid:])
+    sinistra=merge_sort(lista[:mid],mid)
+    destra=merge_sort(lista[mid:],n-mid)
 
     return merge(destra,sinistra)
 def merge(destra,sinistra):
@@ -64,12 +63,23 @@ li=[random.sample(range(n),n)]
 li=random.sample(range(n),n)
 
 #tempo bubble sort:
+print("Bubble sort:")
 start=time.time()
 selection_sort(li,n)
 end=time.time()
+print(f"il tempo è:{(end-start)*1000} ms")
 
-print((end-start)*1000)
+# Tempo insertion sort
+print("Insertion Sort:")
+start = time.time()
+insertion_sort(li.copy(),n)
+end = time.time()
+print(f"il tempo è: {(end-start)*1000} ms")
+
+# Tempo merge sort
+print("Merge Sort:")
+start = time.time()
+merge_sort(li.copy(),n)
+end = time.time()
+print(f"Il tempo è: {(end-start)*1000} ms")
 #selection_sort(a,length)
-bubble_sort(a,length)
-print(a)
-#print ( bubble_sort(a))
