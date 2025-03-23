@@ -1,6 +1,4 @@
-import matplotlib as mtl
 import random
-from matplotlib.animation import FuncAnimation
 import time
 #def lista_random(n):
 #   limite=n
