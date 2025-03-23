@@ -23,7 +23,7 @@ def insertion_sort(lista):
         lista[j+1] = valore
     return lista
 
-a=[2,4,6,1,5]
+a=[4,2,6,1,5]
 length= len(a)
 start=0
 end=0
@@ -35,4 +35,6 @@ start=time.time()
 selection_sort(li,n)
 end=time.time()
 print((end-start)*1000)
+selection_sort(a,length)
+print(a)
 #print ( bubble_sort(a))

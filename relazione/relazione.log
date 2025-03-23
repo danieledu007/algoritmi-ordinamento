@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.18)  23 MAR 2025 10:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.18)  23 MAR 2025 11:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -4791,6 +4791,1638 @@ File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/Selectionsor
 Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/Selectionsort/Selectionsort2-560.png  used on input line 20.
 (pdftex.def)             Requested size: 278.03807pt x 257.9631pt.
  <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/Selectionsort/Selectionsort2-560.png> <a1,fr560>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-0.png, id=3864, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-0.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-0.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-0.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-0.png> <a2,fr0>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-1.png, id=3867, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-1.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-1.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-1.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-1.png> <a2,fr1>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-2.png, id=3870, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-2.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-2.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-2.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-2.png> <a2,fr2> <a2,fr3>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-4.png, id=3873, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-4.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-4.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-4.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-4.png> <a2,fr4>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-5.png, id=3876, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-5.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-5.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-5.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-5.png> <a2,fr5>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-6.png, id=3879, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-6.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-6.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-6.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-6.png> <a2,fr6>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-7.png, id=3882, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-7.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-7.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-7.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-7.png> <a2,fr7>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-8.png, id=3885, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-8.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-8.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-8.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-8.png> <a2,fr8>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-9.png, id=3888, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-9.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-9.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-9.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-9.png> <a2,fr9>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-10.png, id=3891, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-10.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-10.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-10.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-10.png> <a2,fr10>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-11.png, id=3894, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-11.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-11.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-11.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-11.png> <a2,fr11> <a2,fr12>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-13.png, id=3897, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-13.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-13.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-13.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-13.png> <a2,fr13>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-14.png, id=3900, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-14.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-14.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-14.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-14.png> <a2,fr14>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-15.png, id=3903, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-15.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-15.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-15.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-15.png> <a2,fr15>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-16.png, id=3906, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-16.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-16.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-16.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-16.png> <a2,fr16> <a2,fr17>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-18.png, id=3909, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-18.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-18.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-18.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-18.png> <a2,fr18>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-19.png, id=3912, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-19.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-19.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-19.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-19.png> <a2,fr19>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-20.png, id=3915, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-20.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-20.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-20.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-20.png> <a2,fr20>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-21.png, id=3918, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-21.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-21.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-21.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-21.png> <a2,fr21>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-22.png, id=3921, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-22.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-22.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-22.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-22.png> <a2,fr22> <a2,fr23> <a2,fr24>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-25.png, id=3924, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-25.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-25.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-25.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-25.png> <a2,fr25>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-26.png, id=3927, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-26.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-26.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-26.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-26.png> <a2,fr26> <a2,fr27> <a2,fr28>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-29.png, id=3930, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-29.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-29.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-29.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-29.png> <a2,fr29> <a2,fr30>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-31.png, id=3933, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-31.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-31.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-31.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-31.png> <a2,fr31>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-32.png, id=3936, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-32.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-32.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-32.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-32.png> <a2,fr32>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-33.png, id=3939, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-33.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-33.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-33.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-33.png> <a2,fr33>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-34.png, id=3942, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-34.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-34.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-34.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-34.png> <a2,fr34>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-35.png, id=3945, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-35.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-35.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-35.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-35.png> <a2,fr35>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-36.png, id=3948, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-36.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-36.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-36.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-36.png> <a2,fr36>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-37.png, id=3951, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-37.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-37.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-37.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-37.png> <a2,fr37>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-38.png, id=3954, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-38.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-38.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-38.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-38.png> <a2,fr38>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-39.png, id=3958, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-39.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-39.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-39.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-39.png> <a2,fr39>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-40.png, id=3961, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-40.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-40.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-40.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-40.png> <a2,fr40>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-41.png, id=3964, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-41.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-41.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-41.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-41.png> <a2,fr41>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-42.png, id=3967, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-42.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-42.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-42.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-42.png> <a2,fr42> <a2,fr43>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-44.png, id=3970, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-44.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-44.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-44.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-44.png> <a2,fr44>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-45.png, id=3973, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-45.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-45.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-45.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-45.png> <a2,fr45>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-46.png, id=3976, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-46.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-46.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-46.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-46.png> <a2,fr46>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-47.png, id=3980, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-47.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-47.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-47.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-47.png> <a2,fr47> <a2,fr48>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-49.png, id=3984, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-49.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-49.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-49.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-49.png> <a2,fr49>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-50.png, id=3987, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-50.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-50.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-50.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-50.png> <a2,fr50> <a2,fr51>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-52.png, id=3990, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-52.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-52.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-52.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-52.png> <a2,fr52> <a2,fr53>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-54.png, id=3993, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-54.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-54.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-54.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-54.png> <a2,fr54>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-55.png, id=3996, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-55.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-55.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-55.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-55.png> <a2,fr55>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-56.png, id=3999, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-56.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-56.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-56.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-56.png> <a2,fr56>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-57.png, id=4002, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-57.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-57.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-57.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-57.png> <a2,fr57>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-58.png, id=4005, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-58.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-58.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-58.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-58.png> <a2,fr58>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-59.png, id=4008, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-59.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-59.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-59.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-59.png> <a2,fr59>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-60.png, id=4011, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-60.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-60.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-60.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-60.png> <a2,fr60> <a2,fr61>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-62.png, id=4014, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-62.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-62.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-62.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-62.png> <a2,fr62>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-63.png, id=4017, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-63.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-63.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-63.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-63.png> <a2,fr63>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-64.png, id=4020, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-64.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-64.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-64.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-64.png> <a2,fr64> <a2,fr65>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-66.png, id=4023, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-66.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-66.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-66.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-66.png> <a2,fr66>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-67.png, id=4026, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-67.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-67.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-67.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-67.png> <a2,fr67>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-68.png, id=4029, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-68.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-68.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-68.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-68.png> <a2,fr68>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-69.png, id=4032, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-69.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-69.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-69.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-69.png> <a2,fr69>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-70.png, id=4035, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-70.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-70.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-70.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-70.png> <a2,fr70>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-71.png, id=4038, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-71.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-71.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-71.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-71.png> <a2,fr71>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-72.png, id=4041, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-72.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-72.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-72.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-72.png> <a2,fr72>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-73.png, id=4044, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-73.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-73.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-73.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-73.png> <a2,fr73>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-74.png, id=4047, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-74.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-74.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-74.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-74.png> <a2,fr74>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-75.png, id=4050, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-75.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-75.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-75.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-75.png> <a2,fr75>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-76.png, id=4053, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-76.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-76.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-76.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-76.png> <a2,fr76> <a2,fr77>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-78.png, id=4056, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-78.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-78.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-78.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-78.png> <a2,fr78>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-79.png, id=4059, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-79.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-79.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-79.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-79.png> <a2,fr79>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-80.png, id=4062, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-80.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-80.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-80.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-80.png> <a2,fr80> <a2,fr81>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-82.png, id=4065, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-82.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-82.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-82.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-82.png> <a2,fr82>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-83.png, id=4068, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-83.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-83.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-83.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-83.png> <a2,fr83> <a2,fr84>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-85.png, id=4071, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-85.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-85.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-85.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-85.png> <a2,fr85>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-86.png, id=4074, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-86.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-86.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-86.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-86.png> <a2,fr86> <a2,fr87>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-88.png, id=4077, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-88.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-88.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-88.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-88.png> <a2,fr88>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-89.png, id=4080, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-89.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-89.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-89.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-89.png> <a2,fr89> <a2,fr90> <a2,fr91> <a2,fr92> <a2,fr93>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-94.png, id=4083, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-94.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-94.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-94.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-94.png> <a2,fr94>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-95.png, id=4086, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-95.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-95.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-95.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-95.png> <a2,fr95> <a2,fr96> <a2,fr97>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-98.png, id=4089, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-98.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-98.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-98.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-98.png> <a2,fr98> <a2,fr99>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-100.png, id=4092, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-100.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-100.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-100.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-100.png> <a2,fr100>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-101.png, id=4095, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-101.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-101.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-101.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-101.png> <a2,fr101>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-102.png, id=4098, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-102.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-102.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-102.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-102.png> <a2,fr102>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-103.png, id=4101, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-103.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-103.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-103.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-103.png> <a2,fr103>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-104.png, id=4104, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-104.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-104.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-104.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-104.png> <a2,fr104>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-105.png, id=4107, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-105.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-105.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-105.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-105.png> <a2,fr105>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-106.png, id=4110, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-106.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-106.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-106.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-106.png> <a2,fr106>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-107.png, id=4113, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-107.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-107.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-107.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-107.png> <a2,fr107>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-108.png, id=4116, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-108.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-108.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-108.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-108.png> <a2,fr108>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-109.png, id=4119, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-109.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-109.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-109.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-109.png> <a2,fr109>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-110.png, id=4122, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-110.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-110.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-110.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-110.png> <a2,fr110>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-111.png, id=4125, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-111.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-111.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-111.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-111.png> <a2,fr111>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-112.png, id=4128, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-112.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-112.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-112.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-112.png> <a2,fr112>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-113.png, id=4131, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-113.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-113.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-113.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-113.png> <a2,fr113>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-114.png, id=4134, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-114.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-114.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-114.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-114.png> <a2,fr114>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-115.png, id=4137, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-115.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-115.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-115.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-115.png> <a2,fr115>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-116.png, id=4140, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-116.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-116.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-116.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-116.png> <a2,fr116>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-117.png, id=4143, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-117.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-117.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-117.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-117.png> <a2,fr117>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-118.png, id=4146, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-118.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-118.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-118.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-118.png> <a2,fr118>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-119.png, id=4149, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-119.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-119.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-119.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-119.png> <a2,fr119>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-120.png, id=4152, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-120.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-120.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-120.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-120.png> <a2,fr120> <a2,fr121>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-122.png, id=4155, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-122.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-122.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-122.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-122.png> <a2,fr122>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-123.png, id=4158, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-123.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-123.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-123.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-123.png> <a2,fr123>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-124.png, id=4162, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-124.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-124.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-124.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-124.png> <a2,fr124>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-125.png, id=4165, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-125.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-125.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-125.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-125.png> <a2,fr125>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-126.png, id=4168, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-126.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-126.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-126.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-126.png> <a2,fr126>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-127.png, id=4171, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-127.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-127.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-127.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-127.png> <a2,fr127>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-128.png, id=4174, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-128.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-128.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-128.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-128.png> <a2,fr128> <a2,fr129>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-130.png, id=4178, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-130.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-130.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-130.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-130.png> <a2,fr130>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-131.png, id=4181, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-131.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-131.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-131.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-131.png> <a2,fr131> <a2,fr132>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-133.png, id=4184, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-133.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-133.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-133.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-133.png> <a2,fr133> <a2,fr134>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-135.png, id=4187, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-135.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-135.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-135.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-135.png> <a2,fr135>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-136.png, id=4190, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-136.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-136.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-136.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-136.png> <a2,fr136>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-137.png, id=4193, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-137.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-137.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-137.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-137.png> <a2,fr137>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-138.png, id=4196, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-138.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-138.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-138.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-138.png> <a2,fr138>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-139.png, id=4199, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-139.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-139.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-139.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-139.png> <a2,fr139>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-140.png, id=4202, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-140.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-140.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-140.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-140.png> <a2,fr140>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-141.png, id=4205, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-141.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-141.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-141.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-141.png> <a2,fr141>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-142.png, id=4208, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-142.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-142.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-142.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-142.png> <a2,fr142> <a2,fr143>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-144.png, id=4211, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-144.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-144.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-144.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-144.png> <a2,fr144>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-145.png, id=4214, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-145.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-145.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-145.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-145.png> <a2,fr145>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-146.png, id=4217, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-146.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-146.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-146.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-146.png> <a2,fr146>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-147.png, id=4220, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-147.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-147.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-147.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-147.png> <a2,fr147>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-148.png, id=4223, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-148.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-148.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-148.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-148.png> <a2,fr148> <a2,fr149> <a2,fr150>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-151.png, id=4226, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-151.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-151.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-151.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-151.png> <a2,fr151>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-152.png, id=4229, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-152.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-152.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-152.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-152.png> <a2,fr152>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-153.png, id=4232, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-153.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-153.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-153.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-153.png> <a2,fr153>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-154.png, id=4235, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-154.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-154.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-154.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-154.png> <a2,fr154>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-155.png, id=4238, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-155.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-155.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-155.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-155.png> <a2,fr155>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-156.png, id=4241, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-156.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-156.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-156.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-156.png> <a2,fr156>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-157.png, id=4244, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-157.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-157.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-157.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-157.png> <a2,fr157> <a2,fr158>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-159.png, id=4248, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-159.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-159.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-159.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-159.png> <a2,fr159>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-160.png, id=4251, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-160.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-160.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-160.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-160.png> <a2,fr160>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-161.png, id=4254, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-161.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-161.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-161.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-161.png> <a2,fr161> <a2,fr162>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-163.png, id=4257, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-163.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-163.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-163.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-163.png> <a2,fr163>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-164.png, id=4260, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-164.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-164.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-164.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-164.png> <a2,fr164>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-165.png, id=4264, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-165.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-165.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-165.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-165.png> <a2,fr165>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-166.png, id=4267, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-166.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-166.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-166.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-166.png> <a2,fr166>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-167.png, id=4270, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-167.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-167.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-167.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-167.png> <a2,fr167> <a2,fr168>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-169.png, id=4273, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-169.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-169.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-169.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-169.png> <a2,fr169> <a2,fr170>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-171.png, id=4276, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-171.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-171.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-171.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-171.png> <a2,fr171>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-172.png, id=4279, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-172.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-172.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-172.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-172.png> <a2,fr172>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-173.png, id=4282, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-173.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-173.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-173.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-173.png> <a2,fr173>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-174.png, id=4285, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-174.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-174.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-174.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-174.png> <a2,fr174>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-175.png, id=4288, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-175.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-175.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-175.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-175.png> <a2,fr175>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-176.png, id=4291, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-176.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-176.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-176.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-176.png> <a2,fr176> <a2,fr177>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-178.png, id=4294, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-178.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-178.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-178.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-178.png> <a2,fr178>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-179.png, id=4297, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-179.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-179.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-179.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-179.png> <a2,fr179> <a2,fr180>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-181.png, id=4300, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-181.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-181.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-181.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-181.png> <a2,fr181>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-182.png, id=4303, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-182.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-182.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-182.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-182.png> <a2,fr182> <a2,fr183>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-184.png, id=4306, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-184.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-184.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-184.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-184.png> <a2,fr184>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-185.png, id=4309, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-185.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-185.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-185.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-185.png> <a2,fr185>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-186.png, id=4312, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-186.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-186.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-186.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-186.png> <a2,fr186>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-187.png, id=4315, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-187.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-187.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-187.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-187.png> <a2,fr187>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-188.png, id=4318, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-188.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-188.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-188.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-188.png> <a2,fr188>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-189.png, id=4321, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-189.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-189.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-189.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-189.png> <a2,fr189>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-190.png, id=4324, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-190.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-190.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-190.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-190.png> <a2,fr190>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-191.png, id=4327, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-191.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-191.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-191.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-191.png> <a2,fr191>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-192.png, id=4330, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-192.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-192.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-192.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-192.png> <a2,fr192>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-193.png, id=4333, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-193.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-193.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-193.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-193.png> <a2,fr193>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-194.png, id=4336, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-194.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-194.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-194.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-194.png> <a2,fr194>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-195.png, id=4339, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-195.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-195.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-195.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-195.png> <a2,fr195> <a2,fr196> <a2,fr197>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-198.png, id=4342, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-198.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-198.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-198.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-198.png> <a2,fr198>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-199.png, id=4345, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-199.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-199.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-199.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-199.png> <a2,fr199>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-200.png, id=4348, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-200.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-200.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-200.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-200.png> <a2,fr200>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-201.png, id=4351, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-201.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-201.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-201.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-201.png> <a2,fr201> <a2,fr202>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-203.png, id=4354, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-203.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-203.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-203.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-203.png> <a2,fr203>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-204.png, id=4357, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-204.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-204.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-204.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-204.png> <a2,fr204> <a2,fr205> <a2,fr206>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-207.png, id=4360, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-207.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-207.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-207.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-207.png> <a2,fr207>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-208.png, id=4363, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-208.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-208.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-208.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-208.png> <a2,fr208> <a2,fr209>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-210.png, id=4366, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-210.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-210.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-210.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-210.png> <a2,fr210>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-211.png, id=4369, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-211.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-211.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-211.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-211.png> <a2,fr211> <a2,fr212> <a2,fr213>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-214.png, id=4372, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-214.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-214.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-214.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-214.png> <a2,fr214>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-215.png, id=4375, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-215.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-215.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-215.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-215.png> <a2,fr215>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-216.png, id=4378, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-216.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-216.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-216.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-216.png> <a2,fr216>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-217.png, id=4381, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-217.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-217.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-217.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-217.png> <a2,fr217> <a2,fr218>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-219.png, id=4384, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-219.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-219.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-219.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-219.png> <a2,fr219>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-220.png, id=4387, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-220.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-220.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-220.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-220.png> <a2,fr220>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-221.png, id=4390, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-221.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-221.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-221.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-221.png> <a2,fr221>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-222.png, id=4393, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-222.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-222.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-222.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-222.png> <a2,fr222>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-223.png, id=4396, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-223.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-223.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-223.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-223.png> <a2,fr223>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-224.png, id=4399, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-224.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-224.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-224.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-224.png> <a2,fr224>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-225.png, id=4402, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-225.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-225.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-225.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-225.png> <a2,fr225>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-226.png, id=4405, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-226.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-226.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-226.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-226.png> <a2,fr226>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-227.png, id=4408, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-227.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-227.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-227.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-227.png> <a2,fr227>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-228.png, id=4411, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-228.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-228.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-228.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-228.png> <a2,fr228>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-229.png, id=4414, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-229.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-229.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-229.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-229.png> <a2,fr229>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-230.png, id=4417, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-230.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-230.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-230.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-230.png> <a2,fr230>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-231.png, id=4420, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-231.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-231.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-231.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-231.png> <a2,fr231>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-232.png, id=4423, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-232.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-232.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-232.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-232.png> <a2,fr232>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-233.png, id=4426, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-233.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-233.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-233.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-233.png> <a2,fr233>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-234.png, id=4429, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-234.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-234.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-234.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-234.png> <a2,fr234>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-235.png, id=4432, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-235.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-235.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-235.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-235.png> <a2,fr235> <a2,fr236>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-237.png, id=4435, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-237.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-237.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-237.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-237.png> <a2,fr237> <a2,fr238>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-239.png, id=4438, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-239.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-239.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-239.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-239.png> <a2,fr239>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-240.png, id=4441, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-240.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-240.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-240.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-240.png> <a2,fr240> <a2,fr241>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-242.png, id=4444, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-242.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-242.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-242.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-242.png> <a2,fr242>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-243.png, id=4447, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-243.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-243.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-243.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-243.png> <a2,fr243>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-244.png, id=4450, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-244.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-244.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-244.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-244.png> <a2,fr244> <a2,fr245>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-246.png, id=4453, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-246.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-246.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-246.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-246.png> <a2,fr246>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-247.png, id=4456, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-247.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-247.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-247.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-247.png> <a2,fr247> <a2,fr248> <a2,fr249>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-250.png, id=4459, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-250.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-250.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-250.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-250.png> <a2,fr250>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-251.png, id=4462, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-251.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-251.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-251.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-251.png> <a2,fr251> <a2,fr252>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-253.png, id=4465, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-253.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-253.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-253.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-253.png> <a2,fr253>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-254.png, id=4468, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-254.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-254.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-254.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-254.png> <a2,fr254> <a2,fr255>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-256.png, id=4471, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-256.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-256.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-256.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-256.png> <a2,fr256>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-257.png, id=4474, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-257.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-257.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-257.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-257.png> <a2,fr257>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-258.png, id=4477, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-258.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-258.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-258.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-258.png> <a2,fr258>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-259.png, id=4480, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-259.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-259.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-259.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-259.png> <a2,fr259> <a2,fr260>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-261.png, id=4483, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-261.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-261.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-261.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-261.png> <a2,fr261> <a2,fr262>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-263.png, id=4486, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-263.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-263.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-263.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-263.png> <a2,fr263>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-264.png, id=4489, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-264.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-264.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-264.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-264.png> <a2,fr264>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-265.png, id=4492, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-265.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-265.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-265.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-265.png> <a2,fr265>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-266.png, id=4495, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-266.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-266.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-266.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-266.png> <a2,fr266> <a2,fr267> <a2,fr268> <a2,fr269>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-270.png, id=4498, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-270.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-270.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-270.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-270.png> <a2,fr270>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-271.png, id=4501, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-271.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-271.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-271.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-271.png> <a2,fr271>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-272.png, id=4504, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-272.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-272.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-272.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-272.png> <a2,fr272>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-273.png, id=4507, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-273.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-273.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-273.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-273.png> <a2,fr273> <a2,fr274> <a2,fr275> <a2,fr276> <a2,fr277>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-278.png, id=4510, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-278.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-278.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-278.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-278.png> <a2,fr278> <a2,fr279>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-280.png, id=4513, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-280.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-280.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-280.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-280.png> <a2,fr280>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-281.png, id=4516, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-281.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-281.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-281.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-281.png> <a2,fr281> <a2,fr282>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-283.png, id=4519, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-283.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-283.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-283.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-283.png> <a2,fr283>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-284.png, id=4522, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-284.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-284.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-284.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-284.png> <a2,fr284>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-285.png, id=4525, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-285.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-285.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-285.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-285.png> <a2,fr285> <a2,fr286> <a2,fr287>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-288.png, id=4528, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-288.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-288.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-288.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-288.png> <a2,fr288>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-289.png, id=4531, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-289.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-289.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-289.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-289.png> <a2,fr289>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-290.png, id=4534, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-290.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-290.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-290.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-290.png> <a2,fr290>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-291.png, id=4537, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-291.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-291.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-291.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-291.png> <a2,fr291>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-292.png, id=4540, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-292.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-292.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-292.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-292.png> <a2,fr292>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-293.png, id=4543, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-293.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-293.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-293.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-293.png> <a2,fr293>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-294.png, id=4546, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-294.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-294.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-294.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-294.png> <a2,fr294>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-295.png, id=4549, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-295.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-295.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-295.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-295.png> <a2,fr295>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-296.png, id=4552, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-296.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-296.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-296.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-296.png> <a2,fr296>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-297.png, id=4555, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-297.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-297.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-297.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-297.png> <a2,fr297>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-298.png, id=4558, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-298.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-298.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-298.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-298.png> <a2,fr298>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-299.png, id=4561, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-299.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-299.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-299.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-299.png> <a2,fr299>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-300.png, id=4565, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-300.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-300.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-300.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-300.png> <a2,fr300>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-301.png, id=4568, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-301.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-301.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-301.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-301.png> <a2,fr301>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-302.png, id=4571, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-302.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-302.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-302.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-302.png> <a2,fr302>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-303.png, id=4574, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-303.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-303.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-303.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-303.png> <a2,fr303>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-304.png, id=4577, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-304.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-304.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-304.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-304.png> <a2,fr304>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-305.png, id=4580, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-305.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-305.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-305.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-305.png> <a2,fr305>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-306.png, id=4583, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-306.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-306.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-306.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-306.png> <a2,fr306>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-307.png, id=4586, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-307.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-307.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-307.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-307.png> <a2,fr307>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-308.png, id=4589, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-308.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-308.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-308.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-308.png> <a2,fr308>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-309.png, id=4592, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-309.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-309.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-309.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-309.png> <a2,fr309>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-310.png, id=4595, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-310.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-310.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-310.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-310.png> <a2,fr310>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-311.png, id=4598, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-311.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-311.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-311.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-311.png> <a2,fr311>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-312.png, id=4601, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-312.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-312.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-312.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-312.png> <a2,fr312>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-313.png, id=4604, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-313.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-313.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-313.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-313.png> <a2,fr313>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-314.png, id=4607, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-314.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-314.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-314.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-314.png> <a2,fr314>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-315.png, id=4610, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-315.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-315.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-315.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-315.png> <a2,fr315>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-316.png, id=4613, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-316.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-316.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-316.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-316.png> <a2,fr316>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-317.png, id=4616, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-317.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-317.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-317.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-317.png> <a2,fr317>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-318.png, id=4619, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-318.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-318.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-318.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-318.png> <a2,fr318>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-319.png, id=4622, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-319.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-319.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-319.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-319.png> <a2,fr319>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-320.png, id=4625, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-320.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-320.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-320.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-320.png> <a2,fr320>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-321.png, id=4628, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-321.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-321.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-321.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-321.png> <a2,fr321>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-322.png, id=4631, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-322.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-322.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-322.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-322.png> <a2,fr322>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-323.png, id=4634, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-323.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-323.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-323.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-323.png> <a2,fr323>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-324.png, id=4637, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-324.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-324.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-324.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-324.png> <a2,fr324>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-325.png, id=4640, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-325.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-325.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-325.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-325.png> <a2,fr325>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-326.png, id=4643, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-326.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-326.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-326.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-326.png> <a2,fr326>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-327.png, id=4646, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-327.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-327.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-327.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-327.png> <a2,fr327>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-328.png, id=4649, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-328.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-328.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-328.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-328.png> <a2,fr328>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-329.png, id=4652, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-329.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-329.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-329.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-329.png> <a2,fr329>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-330.png, id=4655, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-330.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-330.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-330.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-330.png> <a2,fr330>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-331.png, id=4658, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-331.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-331.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-331.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-331.png> <a2,fr331>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-332.png, id=4661, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-332.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-332.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-332.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-332.png> <a2,fr332>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-333.png, id=4664, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-333.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-333.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-333.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-333.png> <a2,fr333>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-334.png, id=4667, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-334.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-334.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-334.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-334.png> <a2,fr334>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-335.png, id=4670, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-335.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-335.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-335.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-335.png> <a2,fr335>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-336.png, id=4673, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-336.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-336.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-336.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-336.png> <a2,fr336>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-337.png, id=4676, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-337.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-337.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-337.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-337.png> <a2,fr337>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-338.png, id=4679, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-338.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-338.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-338.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-338.png> <a2,fr338>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-339.png, id=4682, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-339.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-339.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-339.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-339.png> <a2,fr339>
+<C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-340.png, id=4685, 610.28pt x 537.00626pt>
+File: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-340.png Graphic file (type png)
+<use C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-340.png>
+Package pdftex.def Info: C:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-340.png  used on input line 24.
+(pdftex.def)             Requested size: 610.2785pt x 537.00494pt.
+ <c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/media/MergeSort/Mergesort-340.png> <a2,fr340>
 
 [1
 
@@ -4803,18 +6435,18 @@ L3 programming layer <2024-11-02>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 15209 strings out of 473362
- 1008609 string characters out of 5725050
- 706419 words of memory out of 5000000
- 38289 multiletter control sequences out of 15000+600000
+ 19504 strings out of 473362
+ 1360775 string characters out of 5725050
+ 802119 words of memory out of 5000000
+ 42584 multiletter control sequences out of 15000+600000
  561709 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  76i,8n,82p,324b,2576s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on relazione.pdf (2 pages, 788716 bytes).
+Output written on relazione.pdf (2 pages, 3595395 bytes).
 PDF statistics:
- 3906 PDF objects out of 4296 (max. 8388607)
- 1565 compressed objects within 16 object streams
+ 5078 PDF objects out of 5155 (max. 8388607)
+ 2180 compressed objects within 22 object streams
  0 named destinations out of 1000 (max. 500000)
- 8492 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11492 words of extra memory for PDF output out of 12000 (max. 10000000)
 
