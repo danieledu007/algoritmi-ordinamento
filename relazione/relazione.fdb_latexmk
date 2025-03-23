@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1742725449.50329 "c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/relazione.tex" "relazione.pdf" "relazione" 1742725457.34179 0
-  "c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/relazione.tex" 1742725455 881 e55ee7e192e23b73f3b3a98903437120 ""
+["pdflatex"] 1742745794.85102 "c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/relazione.tex" "relazione.pdf" "relazione" 1742745802.71041 0
+  "c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/relazione.tex" 1742745790 1429 2c69bc38fc8c23429dae1deec1a5b57b ""
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1731945921 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1731945294 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1731945294 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -14,9 +14,11 @@
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1731945294 1116 933a60c408fc0a863a92debe84b2d294 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1731945294 1120 8b7d695260f3cff42e636090a8002094 ""
   "c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1731944697 32080 340ef9bf63678554ee606688e7b5339d ""
+  "c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1731944697 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
   "c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1731944697 35752 024fb6c41858982481f6968b5fc26508 ""
   "c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1731944697 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1731944697 32362 bc3f3eec7ab7d65fe700963d4017d32c ""
+  "c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1731944697 32762 7fee39e011c23b3589931effd97b9702 ""
   "c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1731946921 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "c:/texlive/2024/texmf-dist/tex/generic/etexcmds/etexcmds.sty" 1731945757 7734 b98cbb34c81f667027c1e3ebdbfce34b ""
   "c:/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty" 1731946272 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
@@ -1160,8 +1162,8 @@
   "media/Selectionsort/Selectionsort2-97.png" 1742721236 692 771b2a27a6617c6b93b49eaa9eb858eb ""
   "media/Selectionsort/Selectionsort2-98.png" 1742721236 701 4474c4067d3534942e85590817f020e7 ""
   "media/Selectionsort/Selectionsort2-99.png" 1742721236 694 824f4d8faf3a00ab787739aa054f9c65 ""
-  "relazione.aux" 1742725456 202 75d945287681358f50b338ae1ee5f517 "pdflatex"
-  "relazione.tex" 1742725455 881 e55ee7e192e23b73f3b3a98903437120 ""
+  "relazione.aux" 1742745801 202 cb1709785dcfa598e9df00c1180aedcc "pdflatex"
+  "relazione.tex" 1742745790 1429 2c69bc38fc8c23429dae1deec1a5b57b ""
   (generated)
   "relazione.aux"
   "relazione.log"
