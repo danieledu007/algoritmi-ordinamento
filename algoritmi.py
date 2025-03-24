@@ -53,13 +53,10 @@ def merge(destra,sinistra):
     risultato.extend(destra[j:])
     return risultato
 
-a=[4,2,6,1,5]
-length= len(a)
 start=0
 end=0
 n=int(input("lunghezza della lista:"))
-li=[random.sample(range(n),n)]
-#for i in range(n):
+ #generatore di numeri unici casuali
 li=random.sample(range(n),n)
 
 #tempo bubble sort:
