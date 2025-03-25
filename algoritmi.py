@@ -57,7 +57,10 @@ start=0
 end=0
 n=int(input("lunghezza della lista:"))
  #generatore di numeri unici casuali
-li=random.sample(range(n),n)
+for a in range(n):
+    li=0
+    li=random.sample(range(n),n)
+
 
 #tempo bubble sort:
 print("Bubble sort:")
