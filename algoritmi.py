@@ -56,7 +56,7 @@ def merge(destra,sinistra):
 def heapify(lista,n,i):
     max=i
     #index sinistro 
-    l=2*i+2
+    l=2*i+1
     #index destro
     r=2*i+2
     #se rama destra è maggiore della radice
@@ -71,13 +71,12 @@ def heapify(lista,n,i):
         heapify(lista,n,max)
     
 def heap_sort(lista,n):
-    n= len(lista)
-
     for i in range(n//2-1,-1,-1):
         heapify(lista,n,i)
     for i in range(n-1,0,-1):
         (lista[0],lista[i])=(lista[i],lista[0])
         heapify(lista,i,0)
+    return li
         
 punti=[]
 start=0
@@ -118,7 +117,5 @@ print("Heap Sort:")
 start = time.time()
 heap_sort(li.copy(),n)
 end = time.time()
-print(li)
 print(f"Il tempo è: {(end-start)*1000} ms")
 #selection_sort(a,length)
-print(punti)
