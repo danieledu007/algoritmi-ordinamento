@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1742946553.39768 "c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/relazione.tex" "relazione.pdf" "relazione" 1742946563.24559 0
-  "c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/relazione.tex" 1742946542 13506 ededbca5fa13317fd87c3c83c01599c9 ""
+["pdflatex"] 1742946608.92355 "c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/relazione.tex" "relazione.pdf" "relazione" 1742946619.01874 0
+  "c:/Users/daniel/Desktop/algoritmi-ordinamento/relazione/relazione.tex" 1742946605 13500 dd7f805ced5ccbdf0fbdd3c276dbd5ba ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1731945300 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1731945921 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1731945649 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -1596,8 +1596,8 @@
   "media/Selectionsort/Selectionsort2-97.png" 1742721236 692 771b2a27a6617c6b93b49eaa9eb858eb ""
   "media/Selectionsort/Selectionsort2-98.png" 1742721236 701 4474c4067d3534942e85590817f020e7 ""
   "media/Selectionsort/Selectionsort2-99.png" 1742721236 694 824f4d8faf3a00ab787739aa054f9c65 ""
-  "relazione.aux" 1742946562 2428 b3f6e4e909c4e6fabf9a3a831c3ad346 "pdflatex"
-  "relazione.tex" 1742946542 13506 ededbca5fa13317fd87c3c83c01599c9 ""
+  "relazione.aux" 1742946617 2422 bdaeb0e93dd9f95a7c18b8c83a2855ce "pdflatex"
+  "relazione.tex" 1742946605 13500 dd7f805ced5ccbdf0fbdd3c276dbd5ba ""
   (generated)
   "relazione.aux"
   "relazione.log"
