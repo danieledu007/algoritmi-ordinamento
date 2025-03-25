@@ -175,11 +175,24 @@ molto efficiente per dataset piccoli o quasi ordinati. Un vantaggio dell’Inser
 di memoria O(1), rendendolo adatto a situazioni in cui la memoria è limitata o si ha bisogno di un algoritmo semplice ed efficace per piccoli insiemi 
 di dati. Inoltre, rispetto ad altri algoritmi di ordinamento più avanzati, l'Insertion Sort ha un overhead computazionale molto basso, rendendolo una 
 scelta ottimale in scenari in cui il numero di elementi è limitato e le operazioni devono essere eseguite rapidamente.
+\begin{figure}[h]
+    \begin{tikzpicture}
+        \begin{axis}[ 
+            xlabel=$x$,
+            ylabel=$y$,
+            xmin=0,
+            ymin=0,
+            ] 
+            \addplot {x^2}; 
+        \end{axis}
+    \end{tikzpicture}
+    \caption{grafico dell'equazione della complessita del algoritmo Inserion}
+\end{figure}
 \section{Dati sperimentali:}
 Dopo una serie di prove i tempi che gli algoritmi hanno impiegato sono i seguenti:
 \begin{table}[h]
     \centering
-    \caption{Tempi di Esecuzione degli Algoritmi di Ordinamento}
+    \caption{Tempi di esecuzione degli algoritmi di ordinamento}
     \begin{tabular}{lcccc}
     \toprule
     \textbf{Algoritmo} & \textbf{tempo impiegato} \\
