@@ -1,5 +1,6 @@
 import random
 import time
+import matplotlib
 def selection_sort(lista,len):
     for i in range(len):
         min=i
@@ -52,11 +53,38 @@ def merge(destra,sinistra):
     risultato.extend(sinistra[i:])
     risultato.extend(destra[j:])
     return risultato
+def heapify(lista,n,i):
+    max=i
+    #index sinistro 
+    l=2*i+2
+    #index destro
+    r=2*i+2
+    #se rama destra è maggiore della radice
+    if l<n and lista[l]>lista[max]:
+         max=l
+    #se rama sinistra è maggiore della radice
+    if r<n and lista[r]>lista[max]:
+        max=r
+    #se la radice non è la più grande
+    if max !=i:
+        (lista[i],lista[max])=(lista[max],lista[i])
+        heapify(lista,n,max)
+    
+def heap_sort(lista,n):
+    n= len(lista)
 
+    for i in range(n//2-1,-1,-1):
+        heapify(lista,n,i)
+    for i in range(n-1,0,-1):
+        (lista[0],lista[i])=(lista[i],lista[0])
+        heapify(lista,i,0)
+        
+punti=[]
 start=0
 end=0
 n=int(input("lunghezza della lista:"))
- #generatore di numeri unici casuali
+f=int(input("iterazioni da fare:"))
+ #generatore di numeri unici casuali 
 for a in range(n):
     li=0
     li=random.sample(range(n),n)
@@ -64,9 +92,12 @@ for a in range(n):
 
 #tempo bubble sort:
 print("Bubble sort:")
+#for i in range(f):
 start=time.time()
-selection_sort(li,n)
+selection_sort(li.copy(),n)
 end=time.time()
+#tentativo per fare un grafico
+#punti.append(((end-start)*1000))
 print(f"il tempo è:{(end-start)*1000} ms")
 
 # Tempo insertion sort
@@ -82,4 +113,12 @@ start = time.time()
 merge_sort(li.copy(),n)
 end = time.time()
 print(f"Il tempo è: {(end-start)*1000} ms")
+#heap sort
+print("Heap Sort:")
+start = time.time()
+heap_sort(li.copy(),n)
+end = time.time()
+print(li)
+print(f"Il tempo è: {(end-start)*1000} ms")
 #selection_sort(a,length)
+print(punti)
