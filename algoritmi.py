@@ -8,6 +8,8 @@ def selection_sort(lista,len):
             if lista[min]>lista[j]:
                 (lista[min],lista[j])=(lista[j],lista[min])
     return li
+
+
 def bubble_sort(lista, n):
     for i in range(n):
         scambio = False
@@ -27,6 +29,8 @@ def insertion_sort(lista,n):
         j -= 1
         lista[j+1] = valore
     return lista
+
+
 def merge_sort(lista,n):
     if n<=1:
         return lista
@@ -36,6 +40,8 @@ def merge_sort(lista,n):
     destra=merge_sort(lista[mid:],n-mid)
 
     return merge(destra,sinistra)
+
+
 def merge(destra,sinistra):
     risultato = []
     i = j = 0
@@ -53,6 +59,8 @@ def merge(destra,sinistra):
     risultato.extend(sinistra[i:])
     risultato.extend(destra[j:])
     return risultato
+
+
 def heapify(lista,n,i):
     max=i
     #index sinistro 
