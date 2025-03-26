@@ -189,7 +189,7 @@ scelta ottimale in scenari in cui il numero di elementi è limitato e le operazi
     \caption{grafico dell'equazione della complessita del algoritmo Inserion}
 \end{figure}
 \section{Dati sperimentali:}
-Dopo una serie di prove i tempi che gli algoritmi hanno impiegato sono i seguenti:
+Dopo una serie di prove i tempi che gli algoritmi hanno impiegato per ordinare 4 liste di 10000 elementi sono i seguenti:
 \begin{table}[h]
     \centering
     \caption{Tempi di esecuzione degli algoritmi di ordinamento}
@@ -197,13 +197,19 @@ Dopo una serie di prove i tempi che gli algoritmi hanno impiegato sono i seguent
     \toprule
     \textbf{Algoritmo} & \textbf{tempo impiegato} \\
     \midrule
-    Bubble Sort & $O(n)$ \\
-    Selection Sort & $O(n^2)$ \\
-    Insertion Sort & $O(n)$ \\
-    Merge Sort & $O(n \log n)$ \\
-    Quick Sort & $O(n \log n)$ \\
+    Bubble Sort & $1726.5 ms $ \\
+    Selection Sort & $1780.9 ms$ \\
+    Insertion Sort & $0.2 ms$ \\
+    Merge Sort & $12.1 ms$ \\
+    Heap sort & $17.7 ms$ \\
     \bottomrule
     \end{tabular}
     \label{tab:sorting-algorithms}
 \end{table}
+\section{Conclusioni:}
+Ogni algoritmo di ordinamento ha vantaggi e svantaggi che lo rendono più o meno adatto a determinati scenari. Il Merge Sort offre un’ottima efficienza 
+temporale e stabilità, ma richiede più memoria rispetto ad altri algoritmi. L’Heap Sort è una scelta valida per l’ordinamento in-place senza necessità 
+di memoria aggiuntiva, ma può risultare meno performante in alcuni contesti pratici. L’Insertion Sort, invece, è ideale per piccoli dataset o liste quasi 
+ordinate, grazie alla sua semplicità e al basso overhead computazionale. Comprendere le caratteristiche di ciascun algoritmo permette di scegliere la soluzione 
+più adatta in base alle esigenze specifiche di un problema di ordinamento.
 \end{document}

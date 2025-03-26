@@ -98,32 +98,62 @@ for a in range(n):
 
 
 #tempo bubble sort:
+somma=[]
 print("Bubble sort:")
-#for i in range(f):
-start=time.time()
-selection_sort(li.copy(),n)
-end=time.time()
+for i in range(f):
+    start=time.time()
+    selection_sort(li.copy(),n)
+    end=time.time()
+    somma.append(((end-start)*1000))
+tempomedio=sum(somma)/f
+print(f"il tempo medio è:{tempomedio} ms")
 #tentativo per fare un grafico
-#punti.append(((end-start)*1000))
 print(f"il tempo è:{(end-start)*1000} ms")
 
 # Tempo insertion sort
+somma2=[]
 print("Insertion Sort:")
-start = time.time()
-insertion_sort(li.copy(),n)
-end = time.time()
+for i in range(f):
+    start = time.time()
+    insertion_sort(li.copy(),n)
+    end = time.time()
+    somma2.append(((end-start)*1000))
+tempomedio2=sum(somma2)/f
+print(f"il tempo medio è:{tempomedio2} ms")
 print(f"il tempo è: {(end-start)*1000} ms")
 
 # Tempo merge sort
+somma3=[]
 print("Merge Sort:")
-start = time.time()
-merge_sort(li.copy(),n)
-end = time.time()
+for i in range(f):
+    start = time.time()
+    merge_sort(li.copy(),n)
+    end = time.time()
+    somma3.append(((end-start)*1000))
+tempomedio3=sum(somma3)/f
+print(f"il tempo medio è:{tempomedio3} ms")
 print(f"Il tempo è: {(end-start)*1000} ms")
 #heap sort
+somma4=[]
 print("Heap Sort:")
-start = time.time()
-heap_sort(li.copy(),n)
-end = time.time()
+for i in range(f):
+    start = time.time()
+    heap_sort(li.copy(),n)
+    end = time.time()
+    somma4.append(((end-start)*1000))
+tempomedio4=sum(somma4)/f
+print(f"il tempo medio è:{tempomedio4} ms")
 print(f"Il tempo è: {(end-start)*1000} ms")
+#insertion sort
+somma5=[]
+print("Selection Sort:")
+for i in range(f):
+    start = time.time()
+    selection_sort(li.copy(),n)
+    end = time.time()
+    somma5.append(((end-start)*1000))
+tempomedio5=sum(somma5)/f
+print(f"il tempo medio è:{tempomedio5} ms")
+print(f"Il tempo è: {(end-start)*1000} ms")
+
 #selection_sort(a,length)
